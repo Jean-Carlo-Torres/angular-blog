@@ -3,9 +3,9 @@
 }
 
 .container__menu-title h1{
-  margin-top: 15px;
-  margin-bottom: 15px;
-  font-size: 150px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 120px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: bolder;
   display: flex;
